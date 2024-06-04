@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Who is the Prime Minister Of India?",
+        "answers": ["Akshaj Bhat", "Narendra Modi","Rahul Gandhi","Donald Trump"],
+        "correct": 1
+    },
+    {
+        "question": "Who is the Chief Minister of Karnataka?",
+        "answers": [ "Upendra","Sidhu", "Sudeep", "DK Shiva"],
+        "correct": 1
+    }
+]

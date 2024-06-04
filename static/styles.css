@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px grey;
+    text-align: center;
+}
+
+h1, h3 {
+    color: #333;
+}
+
+.start-btn, .submit-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(3, 49, 65);
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.start-btn:hover, .submit-btn:hover {
+    background-color: green;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+}
